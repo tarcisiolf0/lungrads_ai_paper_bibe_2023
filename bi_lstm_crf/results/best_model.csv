@@ -1,0 +1,11 @@
+Model_13,precision,recall,f1-score,support
+ACHADO,0.92,0.93,0.93,74
+ATENUACAO,0.75,0.94,0.83,16
+BORAS,0,0,0,5
+CALCIFICACAO,0.95,0.93,0.94,57
+LOCALIZACAOA,0.93,0.9,0.92,73
+TAMANHO,0.89,0.94,0.91,62
+,,,,
+micro avg,0.91,0.91,0.91,287
+macro avg,0.74,0.77,0.75,287
+weighted avg,0.9,0.91,0.9,287
